@@ -1,3 +1,4 @@
+FileIndex makes a csv file filled with metadata gathered from the PDF filename and moves/copies the files from one directory to another.
 In order to get the pdf information, setup a variable to get the name of each pdf delimited by “_” and then get a segment of the array
 information from the filename.
 
